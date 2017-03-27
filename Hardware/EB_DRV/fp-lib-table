@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name drv812)(type KiCad)(uri /media/krzysztof/UUI/MGR/20-12-2016/EB_DRV/Libraries)(options "")(descr ""))
+  (lib (name EBK)(type KiCad)(uri /media/krzysztof/UUI/MGR/20-12-2016/EB_DRV/Libraries)(options "")(descr ""))
+)
